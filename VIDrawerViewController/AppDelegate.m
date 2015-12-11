@@ -30,7 +30,7 @@
     //Init leftSideViewController
     UIViewController * leftSideDrawerViewController = [[LeftSideDrawerViewController alloc] init];
     
-    //Init leftSideViewController
+    //Init rightSideViewController
     UIViewController * rightSideDrawerViewController = [[RightSideDrawerViewController alloc] init];
     
     //Init centerViewControler
