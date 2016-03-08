@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "3D228EC1FE3E6205FB2BC027FD3E4DF0853E71D3",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "3B2CA4C1ECBB244E9C12D5280577889D85EBD9E2" : 0,
+    "3D228EC1FE3E6205FB2BC027FD3E4DF0853E71D3" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "48725EFF-B8DE-4B2B-A2B4-A26BB26BF233",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "3B2CA4C1ECBB244E9C12D5280577889D85EBD9E2" : "..",
+    "3D228EC1FE3E6205FB2BC027FD3E4DF0853E71D3" : "VIDrawerViewController\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "VIDrawerViewController",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "VIDrawerViewController.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:InfoGeeker\/ig.test.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "3B2CA4C1ECBB244E9C12D5280577889D85EBD9E2"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:vimer\/VIDrawerViewController.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "3D228EC1FE3E6205FB2BC027FD3E4DF0853E71D3"
+    }
+  ]
+}
